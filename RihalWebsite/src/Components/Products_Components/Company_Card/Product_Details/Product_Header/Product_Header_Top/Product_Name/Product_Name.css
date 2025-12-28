@@ -1,0 +1,20 @@
+.Product-Name {
+    color: var(--color-Rihal-White, #F4FFFE);
+    font-family: Rihal;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: var(--font-weight-semibold, 700);
+    line-height: 25.5px;
+    /* background-color: orange; */
+    text-align: left;
+}
+.Product-name-text {
+    color: var(--color-Rihal-White, #F4FFFE);
+    font-family: Rihal;
+    font-size: 22.5px;
+    font-style: normal;
+    font-weight: var(--font-weight-semibold, 700);
+    line-height: 25.5px;
+        /* background-color: pink; */
+    text-align: left;
+}

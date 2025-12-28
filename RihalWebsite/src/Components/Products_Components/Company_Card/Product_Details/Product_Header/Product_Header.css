@@ -1,0 +1,10 @@
+.Product-Header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 12px;
+    align-self: stretch;
+
+
+}
