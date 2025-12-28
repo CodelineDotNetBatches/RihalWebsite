@@ -1,1 +1,1 @@
-# RihalWebsite
+# Rihal Website frontend
