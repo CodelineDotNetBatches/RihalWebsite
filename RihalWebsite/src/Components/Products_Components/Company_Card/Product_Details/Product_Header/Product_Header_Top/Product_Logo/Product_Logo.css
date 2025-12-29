@@ -1,0 +1,9 @@
+.Product-Logo {
+    display: flex;
+    width: 51px;
+    height: 51px;
+    align-items:  flex-start;
+    gap:25.5px;
+    aspect-ratio: 1/1;
+    
+}

@@ -1,0 +1,10 @@
+.Feature-List {
+    color: var(--color-Rihal-White, #F4FFFE);
+    font-family: Rihal;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: var(--font-weight-normal, 400);
+    line-height: 23.243px;
+    text-align: left;
+
+}

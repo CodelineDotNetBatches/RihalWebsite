@@ -1,0 +1,37 @@
+.Card-Footer-Button-Container {
+    display: flex;
+    height: 50px;
+    padding: var(--spacing-2, 8px) var(--spacing-4, 16px);
+    justify-content: center;
+    align-items: center;
+    gap: var(--spacing-1-5, 6px);
+   
+}
+
+.Demo-Button {
+    display: flex;
+    height: 50px;
+    padding: var(--spacing-2, 8px) var(--spacing-4, 16px);
+    justify-content: center;
+    align-items: center;
+    gap: var(--spacing-1-5, 6px);
+    border-radius: 500px;
+    background: #F4FFFE;
+   
+}
+
+.Demo-Button-Text {
+    color: var(--color-Primary-Dark, #0B9E8C);
+    text-align: center;
+    font-family: var(--font-family-sans, Inter);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: var(--font-weight-medium, 500);
+    line-height: var(--font-leading-5, 20px);
+    letter-spacing: var(--font-tracking-normal, 0);
+}
+
+.Demo-Button-Icon {
+    width: 20px;
+    height: 20px;
+}

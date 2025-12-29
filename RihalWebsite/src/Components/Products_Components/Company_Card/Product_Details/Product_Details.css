@@ -1,0 +1,20 @@
+.Product-detailes {
+    display: flex;
+    flex-direction: column;
+    width: 481px;
+    height: 444px;
+    /* justify-content: space-between; */
+    background-color: transparent;
+    gap: 55px;
+}
+
+
+.product-detailes-left {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: flex-start;
+    gap: 12px;
+    align-self: stretch;
+    background-color: rgb(244, 242, 240);
+}

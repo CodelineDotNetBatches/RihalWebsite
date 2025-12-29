@@ -1,0 +1,9 @@
+.Trusted_Text {
+    color: var(--color-Rihal-White, #F4FFFE);
+    font-family: var(--font-family-sans, Inter);
+    font-size: 15.495px;
+    font-style: normal;
+    font-weight: var(--font-weight-medium, 500);
+    line-height: 23.243px;
+    /* 150% */
+}

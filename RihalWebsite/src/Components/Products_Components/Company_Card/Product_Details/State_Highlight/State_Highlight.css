@@ -1,0 +1,9 @@
+.state_highlight {
+    color: var(--color-Accent-Yellow, #FFC300);
+    font-family: Rihal;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23.243px;
+    text-align: left;
+}

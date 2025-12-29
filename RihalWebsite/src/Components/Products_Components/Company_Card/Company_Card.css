@@ -1,0 +1,21 @@
+.Company-Card {
+    display: flex;
+    width: 1150px;
+    height: 514px;
+    padding: 34px 40px 35px 39px;
+    justify-content: center;
+    align-items: center;
+    background-color:#0B1A2B;
+    border-radius: 11.6px;
+    
+}
+.Company-Container {
+    display: flex;
+    width: 1071px;
+    height: 445px;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+    background-color: transparent;
+  
+}
